@@ -35,26 +35,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"> &nbsp; About Me
 
-```typescript
-const arsalan: Developer = {
-    name: "Mohammed Arsalan Rangrez",
-    age: 19,
-    location: "Jodhpur, Rajasthan, India",
-    title: "Full-Stack Developer",
-    education: {
-        status: "Pre-College → B.Tech CSE (2025-2029)",
-        specialization: "AI & Machine Learning / Data Science",
-        journey: "Self-Taught → Google Certified → Building Real Products"
-    },
-    philosophy: [
-        "I don't wait for college to start building",
-        "I find real problems and solve them with code",
-        "AI is a tool, not a replacement for thinking",
-        "Local businesses deserve modern digital solutions"
-    ],
-    currentMission: "Building web solutions for local businesses",
-    funFact: "Started coding after 12th — already freelancing, Google certified, hackathon competing"
-};
 <br>
 What makes me different?
 While most 19-year-olds are figuring out college admissions, I'm building
@@ -64,49 +44,6 @@ Just curiosity, consistency, and a laptop.
 
 <br><table> <tr> <td width="50%" valign="top">
 
-🎯   Open To
-🏢   Full-Time Opportunities & Internships
-🤝   Freelance Projects (Local Business Solutions)
-💡   Hackathons & Competitions
-🌍   Open Source Collaboration
-🧠   Startup & Product Teams
-🎓   Mentorship Opportunities
-</td> <td width="50%" valign="top">
-⚡   Quick Facts
-🔭   Building: Dental Clinic Web Platform
-🌱   Learning: Python, Java, System Design
-🏆   Google Cloud Certified (3x)
-🧑‍💻   Active Hackathon Participant
-💼   Freelance Experience
-🎯   Niche: Healthcare & Local Business Tech
-</td> </tr> </table>
-
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">   Tech Stack
-<div align="center">
-
-<br><img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,gcp,docker,git,github,vscode,vercel,figma,postman&perline=10&theme=dark" /></div>
-
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30">   AI & Emerging Tech Expertise
-<div align="center">
-
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30">   Featured Projects
-<details> <summary><b>🦷 SmileCare Dental Clinic — Complete Business Web Platform</b></summary><br>
-A production-grade dental clinic web solution with real-time appointment booking,
-designed to help local clinics stop losing patients to competitors.
-
-<div align="center">
-
-</div><br></details><details> <summary><b>💼 Portfolio Platform — Enterprise Developer Showcase</b></summary><br>
-A full-stack portfolio website engineered to demonstrate real problem-solving capabilities,
-featuring a custom CMS, blog system, and dynamic project management.
-
-<div align="center">
-
-</div><br></details><details> <summary><b>💼 Portfolio Platform — Enterprise Developer Showcase</b></summary><br>
-A full-stack portfolio website engineered to demonstrate real problem-solving capabilities,
-featuring a custom CMS, blog system, and dynamic project management.
-
 <div align="center">
