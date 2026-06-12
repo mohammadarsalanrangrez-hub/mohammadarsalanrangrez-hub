@@ -97,13 +97,31 @@ Postman
 <br><img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,gcp,docker,git,github,vscode,vercel,figma,postman&perline=10&theme=dark" /></div>
 
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30">   AI & Emerging Tech Expertise
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30">   Featured Projects
+<details> <summary><b>🦷 SmileCare Dental Clinic — Complete Business Web Platform</b></summary><br>
+A production-grade dental clinic web solution with real-time appointment booking,
+designed to help local clinics stop losing patients to competitors.
+
 <div align="center">
-Domain                           	Proficiency                               Details
-🤖 AI-Assisted Development      	████████░░ 80%	      Leveraging AI tools (Copilot, ChatGPT, Claude) for rapid prototyping and debugging
-☁️ Google Cloud Platform        	███████░░░ 70%	      Cloud Security, Data Loss Prevention, ML APIs — 3x Certified                      
-🔄 Automation & Workflows        	████████░░ 80%	      Building automated pipelines, CI/CD concepts, task automation                     
-📊 ML API Integration           	██████░░░░ 60%	      Google Cloud ML APIs, data preparation, API consumption                           
-🛡️ Cloud Security	                ███████░░░ 70%	      DLP implementation, security fundamentals on GCP                                  
-🧠 Prompt Engineering	            █████████░ 90%	      Expert at crafting prompts for maximum AI output quality
-</div>
+Aspect	Details
+Stack	Next.js 14 · React · Tailwind CSS · Node.js · MongoDB · Nodemailer
+Scale	Multi-page responsive web app — Mobile, Tablet, Desktop
+Performance	Lighthouse Score 95+ · SEO Optimized · Image Optimized
+Key Features	Online Appointment System · WhatsApp Integration · Admin Dashboard
+Problem Solved	Local dental clinics depend on Just Dial & Instagram — losing patients daily
+Impact	Demo platform showcasing complete clinic digitization
+Repository	GitHub
+</div><br></details><details> <summary><b>💼 Portfolio Platform — Enterprise Developer Showcase</b></summary><br>
+A full-stack portfolio website engineered to demonstrate real problem-solving capabilities,
+featuring a custom CMS, blog system, and dynamic project management.
+
+<div align="center">
+Aspect	Details
+Stack	Next.js 14 · TypeScript · Tailwind CSS · Framer Motion · PostgreSQL · Prisma
+Scale	Full-stack application with admin dashboard and CMS
+Performance	SSR/SSG hybrid · Lighthouse 95+ · Dark/Light theme
+Key Features	Custom CMS · Blog System · Contact System · Analytics
+Architecture	App Router · Server Actions · API Routes · Responsive
+Impact	Professional developer branding platform
+Repository	GitHub
+</div><br></details>
