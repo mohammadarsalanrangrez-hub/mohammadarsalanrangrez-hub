@@ -103,15 +103,16 @@ A production-grade dental clinic web solution with real-time appointment booking
 designed to help local clinics stop losing patients to competitors.
 
 <div align="center">
-Aspect	Details
-Stack	Next.js 14 · React · Tailwind CSS · Node.js · MongoDB · Nodemailer
-Scale	Multi-page responsive web app — Mobile, Tablet, Desktop
-Performance	Lighthouse Score 95+ · SEO Optimized · Image Optimized
-Key Features	Online Appointment System · WhatsApp Integration · Admin Dashboard
-Problem Solved	Local dental clinics depend on Just Dial & Instagram — losing patients daily
+Aspect	    Details                                                                                                               
+Stack	      Next.js 14 · React · Tailwind CSS · Node.js · MongoDB · Nodemailer                                                            
+Scale 	    Multi-page responsive web app — Mobile, Tablet, Desktop                                                                       
+Performance	Lighthouse Score 95+ · SEO Optimized · Image Optimized                                                                        
+Key Features	Online Appointment System · WhatsApp Integration · Admin Dashboard                                                          
+Problem Solved	Local dental clinics depend on Just Dial & Instagram — losing patients daily                                              
 Impact	Demo platform showcasing complete clinic digitization
 Repository	GitHub
-</div><br></details><details> <summary><b>💼 Portfolio Platform — Enterprise Developer Showcase</b></summary><br>
+</div><br></details><details> <summary><b>
+💼 Portfolio Platform — Enterprise Developer Showcase</b></summary><br>
 A full-stack portfolio website engineered to demonstrate real problem-solving capabilities,
 featuring a custom CMS, blog system, and dynamic project management.
 
