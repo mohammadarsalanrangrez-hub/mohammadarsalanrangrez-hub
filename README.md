@@ -63,12 +63,12 @@ Just curiosity, consistency, and a laptop.
 <br>      
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">Tech Stack
 <div align="center">
-Languages:                                                                                                                                 
- JavaScript
+Languages:                                                                                                                                
+JavaScript
 TypeScript
 Python
 HTML5
-CSS3
+CSS3                                                                                                                                      
 
 Frontend:                                                                                                                                  
 React
