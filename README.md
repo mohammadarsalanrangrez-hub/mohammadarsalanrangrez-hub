@@ -43,8 +43,8 @@ and solving real business problems. No hand-holding. No bootcamp.
 Just curiosity, consistency, and a laptop.
 
 <br><table> <tr> <td width="50%" valign="top">
-🎯   Open To
-🏢   Full-Time Opportunities & Internships
+🎯   Open To\n
+🏢   Full-Time Opportunities & Internships\n
 🤝   Freelance Projects (Local Business Solutions)
 💡   Hackathons & Competitions
 🌍   Open Source Collaboration
