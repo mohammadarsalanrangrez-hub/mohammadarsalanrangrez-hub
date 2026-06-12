@@ -50,9 +50,8 @@ Just curiosity, consistency, and a laptop.
 🌍   Open Source Collaboration                                                                                                           
 🧠   Startup & Product Teams                                                                                                             
 🎓   Mentorship Opportunities                                                                                                            
-</td> <td width="50%" valign="top">
-⚡   Quick Facts                                                                                                                         
-🔭   Building: Dental Clinic Web Platform                                                                                                
+</td> <td width="50%" valign="top">                                                                                                       
+⚡   Quick Facts                                                                                                                         🔭   Building: Dental Clinic Web Platform                                                                                                
 🌱   Learning: Python, Java, System Design                                                                                               
 🏆   Google Cloud Certified (3x)                                                                                                         
 🧑‍💻   Active Hackathon Participant                                                                                                      
