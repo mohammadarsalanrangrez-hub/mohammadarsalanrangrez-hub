@@ -61,22 +61,22 @@ Just curiosity, consistency, and a laptop.
 </td> </tr> </table>
 
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">   Tech Stack
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">Tech Stack
 <div align="center">
-Languages
+Languages                                                                                                                                 
 JavaScript
 TypeScript
 Python
 HTML5
 CSS3
 
-Frontend
+Frontend                                                                                                                                  
 React
 Next.js
 Tailwind CSS
 Framer Motion
 
-Backend & Databases
+Backend & Databases                                                                                                                       
 Node.js
 Express.js
 MongoDB
@@ -84,7 +84,7 @@ PostgreSQL
 MySQL
 Firebase
 
-Cloud, DevOps & Tooling
+Cloud, DevOps & Tooling                                                                                                                   
 Google Cloud
 Docker
 Git
