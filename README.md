@@ -60,23 +60,23 @@ Just curiosity, consistency, and a laptop.
 🎯   Niche: Healthcare & Local Business Tech                                                                                             
 </td> </tr> </table>
 
-<br>      
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">Tech Stack
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">   Tech Stack
 <div align="center">
-Languages:                                                                                                                                
+Languages
 JavaScript
 TypeScript
 Python
 HTML5
-CSS3                                                                                                                                      
+CSS3
 
-Frontend:                                                                                                                                  
+Frontend
 React
 Next.js
 Tailwind CSS
 Framer Motion
 
-Backend & Databases:                                                                                                                       
+Backend & Databases
 Node.js
 Express.js
 MongoDB
@@ -84,7 +84,7 @@ PostgreSQL
 MySQL
 Firebase
 
-Cloud, DevOps & Tooling:                                                                                                                   
+Cloud, DevOps & Tooling
 Google Cloud
 Docker
 Git
@@ -95,7 +95,17 @@ Figma
 Postman
 
 <br><img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,gcp,docker,git,github,vscode,vercel,figma,postman&perline=10&theme=dark" /></div>
-
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30">   AI & Emerging Tech Expertise
+<div align="center">
+Domain	Proficiency	Details
+🤖 AI-Assisted Development	████████░░ 80%	Leveraging AI tools (Copilot, ChatGPT, Claude) for rapid prototyping and debugging
+☁️ Google Cloud Platform	███████░░░ 70%	Cloud Security, Data Loss Prevention, ML APIs — 3x Certified
+🔄 Automation & Workflows	████████░░ 80%	Building automated pipelines, CI/CD concepts, task automation
+📊 ML API Integration	██████░░░░ 60%	Google Cloud ML APIs, data preparation, API consumption
+🛡️ Cloud Security	███████░░░ 70%	DLP implementation, security fundamentals on GCP
+🧠 Prompt Engineering	█████████░ 90%	Expert at crafting prompts for maximum AI output quality
+</div>
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30">   Featured Projects
 <details> <summary><b>🦷 SmileCare Dental Clinic — Complete Business Web Platform</b></summary><br>
@@ -103,16 +113,15 @@ A production-grade dental clinic web solution with real-time appointment booking
 designed to help local clinics stop losing patients to competitors.
 
 <div align="center">
-Aspect	    Details                                                                                                               
-Stack	      Next.js 14 · React · Tailwind CSS · Node.js · MongoDB · Nodemailer                                                            
-Scale 	    Multi-page responsive web app — Mobile, Tablet, Desktop                                                                       
-Performance	Lighthouse Score 95+ · SEO Optimized · Image Optimized                                                                        
-Key Features	Online Appointment System · WhatsApp Integration · Admin Dashboard                                                          
-Problem Solved	Local dental clinics depend on Just Dial & Instagram — losing patients daily                                              
+Aspect	Details
+Stack	Next.js 14 · React · Tailwind CSS · Node.js · MongoDB · Nodemailer
+Scale	Multi-page responsive web app — Mobile, Tablet, Desktop
+Performance	Lighthouse Score 95+ · SEO Optimized · Image Optimized
+Key Features	Online Appointment System · WhatsApp Integration · Admin Dashboard
+Problem Solved	Local dental clinics depend on Just Dial & Instagram — losing patients daily
 Impact	Demo platform showcasing complete clinic digitization
 Repository	GitHub
-</div><br></details><details> <summary><b>
-💼 Portfolio Platform — Enterprise Developer Showcase</b></summary><br>
+</div><br></details><details> <summary><b>💼 Portfolio Platform — Enterprise Developer Showcase</b></summary><br>
 A full-stack portfolio website engineered to demonstrate real problem-solving capabilities,
 featuring a custom CMS, blog system, and dynamic project management.
 
@@ -126,3 +135,123 @@ Architecture	App Router · Server Actions · API Routes · Responsive
 Impact	Professional developer branding platform
 Repository	GitHub
 </div><br></details>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30">   Experience
+<table> <tr> <td>
+💻   Freelance Full-Stack Developer
+Self-Employed   ·   2024 — Present
+
+Building end-to-end web solutions for local businesses and clients
+
+Designed and developed responsive, mobile-first web applications
+Built backend systems with Node.js, REST APIs, and MongoDB/PostgreSQL
+Delivered complete projects end-to-end: requirement gathering → deployment
+Specializing in dental clinic and healthcare web solutions
+React
+Next.js
+Node.js
+MongoDB
+
+</td> </tr> <tr> <td>
+☁️   Google Cloud Program Participant
+Google   ·   2025 — 2026
+
+Completed hands-on skill badge programs on Google Cloud Platform
+
+Earned 3 Google Cloud Skill Badges
+Implemented Cloud Security Fundamentals
+Applied Data Loss Prevention techniques
+Prepared data for Machine Learning APIs on GCP
+Google Cloud
+Security
+ML
+
+</td> </tr> </table>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30">   Achievements
+<div align="center">
+Recognition	Details
+🏅 Google Cloud Certified (3x)	Cloud Security · Data Loss Prevention · ML APIs
+🏆 Active Hackathon Competitor	Building real solutions under pressure
+🎓 Google Developer Program	Recognized in Google's developer initiatives
+💼 Pre-College Freelancer	Delivering professional web solutions before formal education
+🚀 Self-Taught Full-Stack	Zero to full-stack — no bootcamp, no coaching
+</div>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="30">   Certifications
+<div align="center">
+☁️   Google Cloud
+DLP
+
+Security
+
+ML APIs
+
+</div>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30">   GitHub Analytics
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadarsalanrangrez-hub&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&count_private=true&include_all_commits=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadarsalanrangrez-hub&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6" /><br><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadarsalanrangrez-hub&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=10" /></div>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30">   GitHub Trophies
+<div align="center">
+Trophies
+
+</div>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="30">   Contribution Activity
+<div align="center">
+Activity Graph
+
+</div>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30">   Contribution Snake
+<div align="center">
+Snake
+
+</div>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="30">   Current Focus
+YAML
+
+Learning:
+  - Python (Advanced)
+  - Java (Core + DSA)
+  - System Design Fundamentals
+  - Data Structures & Algorithms
+
+Building:
+  - SmileCare Dental Clinic Platform
+  - Personal Portfolio with Custom CMS
+  - Appointment Management System
+
+Exploring:
+  - AI/ML Integration in Web Applications
+  - Cloud Architecture on GCP
+  - Fintech & E-commerce Platforms
+
+Open To:
+  - Internships (Remote / On-Site)
+  - Full-Time Developer Roles
+  - Freelance Projects
+  - Hackathon Teams
+  - Open Source Contributions
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="30">   Let's Connect
+<div align="center"><br>
+Gmail
+LinkedIn
+GitHub
+Portfolio
+
+<br>
+Have a local business that needs a website? Or a project idea you want to build?
+Let's talk — I build solutions, not just websites.
+
+<br></div>
+<div align="center"><br>
+"I don't wait for opportunities — I build them with code."
+
+<br>
+footer
+
+</div> ```
