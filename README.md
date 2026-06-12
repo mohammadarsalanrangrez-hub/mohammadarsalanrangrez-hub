@@ -60,10 +60,10 @@ Just curiosity, consistency, and a laptop.
 🎯   Niche: Healthcare & Local Business Tech                                                                                             
 </td> </tr> </table>
 
-<br>
+<br> Tech Stack
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">Tech Stack
 <div align="center">
-Languages                                                                                                                                 
+Languages                                                                                                                                  
 JavaScript
 TypeScript
 Python
