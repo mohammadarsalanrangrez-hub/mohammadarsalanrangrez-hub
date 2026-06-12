@@ -99,11 +99,11 @@ Postman
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="30">   AI & Emerging Tech Expertise
 <div align="center">
-Domain	Proficiency	Details
-🤖 AI-Assisted Development	████████░░ 80%	Leveraging AI tools (Copilot, ChatGPT, Claude) for rapid prototyping and debugging
-☁️ Google Cloud Platform	███████░░░ 70%	Cloud Security, Data Loss Prevention, ML APIs — 3x Certified
-🔄 Automation & Workflows	████████░░ 80%	Building automated pipelines, CI/CD concepts, task automation
-📊 ML API Integration	██████░░░░ 60%	Google Cloud ML APIs, data preparation, API consumption
-🛡️ Cloud Security	███████░░░ 70%	DLP implementation, security fundamentals on GCP
-🧠 Prompt Engineering	█████████░ 90%	Expert at crafting prompts for maximum AI output quality
+Domain                           	Proficiency                               Details
+🤖 AI-Assisted Development      	████████░░ 80%	      Leveraging AI tools (Copilot, ChatGPT, Claude) for rapid prototyping and debugging
+☁️ Google Cloud Platform        	███████░░░ 70%	      Cloud Security, Data Loss Prevention, ML APIs — 3x Certified                      
+🔄 Automation & Workflows        	████████░░ 80%	      Building automated pipelines, CI/CD concepts, task automation                     
+📊 ML API Integration           	██████░░░░ 60%	      Google Cloud ML APIs, data preparation, API consumption                           
+🛡️ Cloud Security	                ███████░░░ 70%	      DLP implementation, security fundamentals on GCP                                  
+🧠 Prompt Engineering	            █████████░ 90%	      Expert at crafting prompts for maximum AI output quality
 </div>
