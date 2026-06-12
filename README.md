@@ -44,18 +44,18 @@ Just curiosity, consistency, and a laptop.
 
 <br><table> <tr> <td width="50%" valign="top">
 🎯   Open To                                                                                                                             
-🏢   Full-Time Opportunities & Internships\n
-🤝   Freelance Projects (Local Business Solutions)
-💡   Hackathons & Competitions
-🌍   Open Source Collaboration
-🧠   Startup & Product Teams
-🎓   Mentorship Opportunities
+🏢   Full-Time Opportunities & Internships                                                                                               
+🤝   Freelance Projects (Local Business Solutions)                                                                                       
+💡   Hackathons & Competitions                                                                                                            
+🌍   Open Source Collaboration                                                                                                           
+🧠   Startup & Product Teams                                                                                                             
+🎓   Mentorship Opportunities                                                                                                            
 </td> <td width="50%" valign="top">
-⚡   Quick Facts
-🔭   Building: Dental Clinic Web Platform
-🌱   Learning: Python, Java, System Design
-🏆   Google Cloud Certified (3x)
-🧑‍💻   Active Hackathon Participant
-💼   Freelance Experience
-🎯   Niche: Healthcare & Local Business Tech
+⚡   Quick Facts                                                                                                                         
+🔭   Building: Dental Clinic Web Platform                                                                                                
+🌱   Learning: Python, Java, System Design                                                                                               
+🏆   Google Cloud Certified (3x)                                                                                                         
+🧑‍💻   Active Hackathon Participant                                                                                                      
+💼   Freelance Experience                                                                                                                
+🎯   Niche: Healthcare & Local Business Tech                                                                                             
 </td> </tr> </table>
