@@ -63,3 +63,35 @@ Just curiosity, consistency, and a laptop.
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">   Tech Stack
 <div align="center">
+Languages
+JavaScript
+TypeScript
+Python
+HTML5
+CSS3
+
+Frontend
+React
+Next.js
+Tailwind CSS
+Framer Motion
+
+Backend & Databases
+Node.js
+Express.js
+MongoDB
+PostgreSQL
+MySQL
+Firebase
+
+Cloud, DevOps & Tooling
+Google Cloud
+Docker
+Git
+GitHub
+VS Code
+Vercel
+Figma
+Postman
+
+<br><img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,gcp,docker,git,github,vscode,vercel,figma,postman&perline=10&theme=dark" /></div>
