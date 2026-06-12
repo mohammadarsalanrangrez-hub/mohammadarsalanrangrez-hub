@@ -51,10 +51,15 @@ Just curiosity, consistency, and a laptop.
 🧠   Startup & Product Teams                                                                                                             
 🎓   Mentorship Opportunities                                                                                                            
 </td> <td width="50%" valign="top">                                                                                                       
-⚡   Quick Facts                                                                                                                         🔭   Building: Dental Clinic Web Platform                                                                                                
-🌱   Learning: Python, Java, System Design                                                                                               
-🏆   Google Cloud Certified (3x)                                                                                                         
-🧑‍💻   Active Hackathon Participant                                                                                                      
-💼   Freelance Experience                                                                                                                
+⚡   Quick Facts   
+🔭   Building: Dental Clinic Web Platfor                                                                                       
+🌱   Learning: Python, Java, System Design                                                                                       
+🏆   Google Cloud Certified (3x)                                                                                               
+🧑‍💻   Active Hackathon Participant                                                                                          
+💼   Freelance Experience                                                                                              
 🎯   Niche: Healthcare & Local Business Tech                                                                                             
 </td> </tr> </table>
+
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">   Tech Stack
+<div align="center">
