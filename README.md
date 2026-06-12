@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohammadarsalanrangrez-hub/mohammadarsalanrangrez-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohammed%20Arsalan%20Rangrez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Digital+Solutions+for+Real+Businesses;%F0%9F%92%BB+Full-Stack+Developer+%7C+Self-Taught+%7C+19+Years+Old;%E2%98%81%EF%B8%8F+Google+Cloud+Certified+%7C+Hackathon+Competitor;%F0%9F%8E%AF+Turning+Local+Business+Problems+into+Code)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Self-Taught](https://img.shields.io/badge/Self--Taught-Full_Stack_Developer-8B5CF6?style=for-the-badge&logoColor=white)
+![Pre-College](https://img.shields.io/badge/Pre--College-B.Tech_CSE_(2025--2029)-6366F1?style=for-the-badge&logoColor=white)
+![Google Certified](https://img.shields.io/badge/Google_Cloud-3x_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<br>
+
+![Location](https://img.shields.io/badge/📍_Jodhpur,_Rajasthan,_India-1a1b27?style=flat-square)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arsalan-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-arsalan-rangrez)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadarsalanrangrez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadarsalanrangrez-hub)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadarsalanrangrez-hub&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mohammadarsalanrangrez-hub?style=for-the-badge&color=6366F1&labelColor=1a1b27&logo=github)
+![Stars](https://img.shields.io/github/stars/mohammadarsalanrangrez-hub?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&logo=github)
+
+</div>
+
+---
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"> &nbsp; About Me
+
+```typescript
+const arsalan: Developer = {
+    name: "Mohammed Arsalan Rangrez",
+    age: 19,
+    location: "Jodhpur, Rajasthan, India",
+    title: "Full-Stack Developer",
+    education: {
+        status: "Pre-College → B.Tech CSE (2025-2029)",
+        specialization: "AI & Machine Learning / Data Science",
+        journey: "Self-Taught → Google Certified → Building Real Products"
+    },
+    philosophy: [
+        "I don't wait for college to start building",
+        "I find real problems and solve them with code",
+        "AI is a tool, not a replacement for thinking",
+        "Local businesses deserve modern digital solutions"
+    ],
+    currentMission: "Building web solutions for local businesses",
+    funFact: "Started coding after 12th — already freelancing, Google certified, hackathon competing"
+};
