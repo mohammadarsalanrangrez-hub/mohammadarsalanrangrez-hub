@@ -60,23 +60,23 @@ Just curiosity, consistency, and a laptop.
 🎯   Niche: Healthcare & Local Business Tech                                                                                             
 </td> </tr> </table>
 
-<br> Tech Stack
+<br>      
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30">Tech Stack
 <div align="center">
-Languages                                                                                                                                  
-JavaScript
+Languages:                                                                                                                                 
+ JavaScript
 TypeScript
 Python
 HTML5
 CSS3
 
-Frontend                                                                                                                                  
+Frontend:                                                                                                                                  
 React
 Next.js
 Tailwind CSS
 Framer Motion
 
-Backend & Databases                                                                                                                       
+Backend & Databases:                                                                                                                       
 Node.js
 Express.js
 MongoDB
@@ -84,7 +84,7 @@ PostgreSQL
 MySQL
 Firebase
 
-Cloud, DevOps & Tooling                                                                                                                   
+Cloud, DevOps & Tooling:                                                                                                                   
 Google Cloud
 Docker
 Git
